@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com desenvolvimento de aplicativos web (front-end) e móveis .
 - 🌱 Aprendendo Flutter e desenvolvimento avançado .
 - 👯 Aberto a colaborações de desenvolvimento web e mobile .
-- 💬 Pergunte-me sobre web, desenvolvimento móvel e segurança cibernética .
+- 💬 Pergunte-me sobre web, desenvolvimento móvel.
 - ⚡ Entusiasta de tecnologia e amante de automação! 🚀
  <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
