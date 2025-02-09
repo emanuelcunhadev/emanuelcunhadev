@@ -1,4 +1,4 @@
-## Hi there 👋, eu sou o Emanuel Cunha Dev
+## Hi there 👋, eu sou o Emanuel Cunha
 
 - 🔭 Atualmente trabalho com desenvolvimento de aplicativos web (front-end) e móveis .
 - 🌱 Aprendendo Flutter e desenvolvimento avançado .
